@@ -1,1 +1,1 @@
-it is a beginners time series analysis of inbuilt r dataset called airpassenger 
+This is a beginner's guide to time series analysis using the built-in R dataset called "AirPassengers."
